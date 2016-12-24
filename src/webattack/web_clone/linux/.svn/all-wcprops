@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/742/social_engineering_toolkit/src/webattack/web_clone/linux
+END
+wget
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/742/social_engineering_toolkit/src/webattack/web_clone/linux/wget
+END

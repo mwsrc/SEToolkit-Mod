@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/stdafx.h
+END
+CMMN.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/CMMN.h
+END
+Redirector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Redirector.cpp
+END
+Win7Elevate.sln
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate.sln
+END
+Redirector.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Redirector.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/targetver.h
+END
+CMMN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/CMMN.cpp
+END

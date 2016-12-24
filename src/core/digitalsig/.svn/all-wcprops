@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/742/social_engineering_toolkit/src/core/digitalsig
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/742/social_engineering_toolkit/src/core/digitalsig/__init__.py
+END
+digital.signature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/742/social_engineering_toolkit/src/core/digitalsig/digital.signature
+END
+disitool.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/742/social_engineering_toolkit/src/core/digitalsig/disitool.py
+END

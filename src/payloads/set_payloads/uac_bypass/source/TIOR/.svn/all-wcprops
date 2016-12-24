@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/stdafx.h
+END
+TIOR.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/TIOR.vcxproj.user
+END
+TIOR.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/TIOR.vcxproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/stdafx.cpp
+END
+TIOR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/TIOR.cpp
+END
+TIOR.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/TIOR/TIOR.vcxproj.filters
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1466/social_engineering_toolkit/src/core
+END
+portscan.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1423/social_engineering_toolkit/src/core/portscan.py
+END
+set.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1466/social_engineering_toolkit/src/core/set.py
+END
+dictionaries.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1439/social_engineering_toolkit/src/core/dictionaries.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/742/social_engineering_toolkit/src/core/__init__.py
+END
+scapy.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1423/social_engineering_toolkit/src/core/scapy.py
+END
+payloadprep.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1423/social_engineering_toolkit/src/core/payloadprep.py
+END
+fasttrack.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1466/social_engineering_toolkit/src/core/fasttrack.py
+END
+module_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1423/social_engineering_toolkit/src/core/module_handler.py
+END
+setcore.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1466/social_engineering_toolkit/src/core/setcore.py
+END

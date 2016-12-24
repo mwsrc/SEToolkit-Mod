@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1466/social_engineering_toolkit/src/html
+END
+spawn.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1466/social_engineering_toolkit/src/html/spawn.py
+END
+web_start.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1423/social_engineering_toolkit/src/html/web_start.py
+END
+Signed_Update.jar.orig
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1466/social_engineering_toolkit/src/html/Signed_Update.jar.orig
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/742/social_engineering_toolkit/src/html/__init__.py
+END
+fasttrack_http_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1183/social_engineering_toolkit/src/html/fasttrack_http_server.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1423/social_engineering_toolkit/src/qrcode
+END
+qrgenerator.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1423/social_engineering_toolkit/src/qrcode/qrgenerator.py
+END
+qrcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1183/social_engineering_toolkit/src/qrcode/qrcode.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1184/social_engineering_toolkit/src/qrcode/__init__.py
+END

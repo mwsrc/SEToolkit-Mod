@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1423/social_engineering_toolkit/src/wireless
+END
+stop_wifiattack.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1423/social_engineering_toolkit/src/wireless/stop_wifiattack.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/742/social_engineering_toolkit/src/wireless/__init__.py
+END
+airmon-ng
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/742/social_engineering_toolkit/src/wireless/airmon-ng
+END
+airbase-ng
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/742/social_engineering_toolkit/src/wireless/airbase-ng
+END
+wifiattack.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1423/social_engineering_toolkit/src/wireless/wifiattack.py
+END

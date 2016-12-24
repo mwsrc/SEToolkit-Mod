@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1466/social_engineering_toolkit/src/html/unsigned
+END
+self_sign.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1423/social_engineering_toolkit/src/html/unsigned/self_sign.py
+END
+verified_sign.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1423/social_engineering_toolkit/src/html/unsigned/verified_sign.py
+END
+unsigned.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1466/social_engineering_toolkit/src/html/unsigned/unsigned.jar
+END

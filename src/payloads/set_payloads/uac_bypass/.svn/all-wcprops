@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass
+END
+x64.binary
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/x64.binary
+END
+x86.binary
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/x86.binary
+END

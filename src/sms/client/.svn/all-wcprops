@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1423/social_engineering_toolkit/src/sms/client
+END
+sms_launch.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1423/social_engineering_toolkit/src/sms/client/sms_launch.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/742/social_engineering_toolkit/src/sms/client/__init__.py
+END
+SMSProviders.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1423/social_engineering_toolkit/src/sms/client/SMSProviders.py
+END
+sms_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1423/social_engineering_toolkit/src/sms/client/sms_client.py
+END
+custom_sms_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1423/social_engineering_toolkit/src/sms/client/custom_sms_template.py
+END

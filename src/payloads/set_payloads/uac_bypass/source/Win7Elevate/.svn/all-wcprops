@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/stdafx.h
+END
+Win7Elevate_Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate_Utils.h
+END
+Win7Elevate.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate.vcxproj.user
+END
+Win7Elevate.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate.vcxproj
+END
+Win7Elevate_Inject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate_Inject.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/stdafx.cpp
+END
+Win7Elevate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate.cpp
+END
+Win7Elevate.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate.vcxproj.filters
+END
+Win7Elevate_Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate_Utils.cpp
+END
+Win7Elevate_Inject.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate_Inject.h
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Resource.h
+END
+Win7Elevate.rc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7Elevate/Win7Elevate.rc
+END

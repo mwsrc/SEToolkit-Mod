@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/stdafx.h
+END
+Win7ElevateDll.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/Win7ElevateDll.vcxproj
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/dllmain.cpp
+END
+Win7ElevateDll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/Win7ElevateDll.cpp
+END
+Win7ElevateDll.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/Win7ElevateDll.vcxproj.filters
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/stdafx.cpp
+END
+Win7ElevateDll.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/742/social_engineering_toolkit/src/payloads/set_payloads/uac_bypass/source/Win7ElevateDll/Win7ElevateDll.vcxproj.user
+END

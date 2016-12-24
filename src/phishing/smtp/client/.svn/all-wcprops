@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1463/social_engineering_toolkit/src/phishing/smtp/client
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/742/social_engineering_toolkit/src/phishing/smtp/client/__init__.py
+END
+smtp_web.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1463/social_engineering_toolkit/src/phishing/smtp/client/smtp_web.py
+END
+smtp_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/1423/social_engineering_toolkit/src/phishing/smtp/client/smtp_client.py
+END
+custom_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1423/social_engineering_toolkit/src/phishing/smtp/client/custom_template.py
+END

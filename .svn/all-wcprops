@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1467/social_engineering_toolkit
+END
+set-web
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1423/social_engineering_toolkit/set-web
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1423/social_engineering_toolkit/setup.py
+END
+set-automate
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1423/social_engineering_toolkit/set-automate
+END
+set-proxy
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1423/social_engineering_toolkit/set-proxy
+END
+set
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1466/social_engineering_toolkit/set
+END
+set-update
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1423/social_engineering_toolkit/set-update
+END

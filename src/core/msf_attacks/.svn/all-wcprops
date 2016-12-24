@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1423/social_engineering_toolkit/src/core/msf_attacks
+END
+create_payload.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/1423/social_engineering_toolkit/src/core/msf_attacks/create_payload.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/742/social_engineering_toolkit/src/core/msf_attacks/__init__.py
+END
+msf_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1423/social_engineering_toolkit/src/core/msf_attacks/msf_list.py
+END
+form.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/742/social_engineering_toolkit/src/core/msf_attacks/form.pdf
+END
